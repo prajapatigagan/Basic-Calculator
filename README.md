@@ -21,8 +21,24 @@ A simple and responsive calculator web application built using HTML, CSS, and Ja
 - JavaScript
 
 ## Project Structure
+basic-calculator/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+
+## How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/prajapatigagan/basic-calculator.git
 
 ## Live Demo
 GitHub Pages: https://prajapatigagan.github.io/Basic-Calculator/
 
 Vercel: https://your-project-name.vercel.app
+
+Author
+
+Gagan Prajapati
+
+GitHub: https://github.com/prajapatigagan
