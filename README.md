@@ -27,18 +27,21 @@ basic-calculator/
 │── script.js
 │── README.md
 
-## How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/prajapatigagan/basic-calculator.git
-
 ## Live Demo
 GitHub Pages: https://prajapatigagan.github.io/Basic-Calculator/
 
 Vercel: https://your-project-name.vercel.app
 
+GitHub: https://github.com/prajapatigagan
+
 Author
 
 Gagan Prajapati
 
-GitHub: https://github.com/prajapatigagan
+## How to Run
+1. Clone the repository:
+```bash
+git clone https://github.com/prajapatigagan/basic-calculator.git
+Open project folder:
+cd basic-calculator
+Open index.html in browser
