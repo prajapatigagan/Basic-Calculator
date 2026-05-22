@@ -21,3 +21,8 @@ A simple and responsive calculator web application built using HTML, CSS, and Ja
 - JavaScript
 
 ## Project Structure
+
+## Live Demo
+GitHub Pages: https://prajapatigagan.github.io/Basic-Calculator/
+
+Vercel: https://your-project-name.vercel.app
